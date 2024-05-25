@@ -5,10 +5,10 @@ Yet Another Curve Renderer for YZXSTUDIO USB Meter
 ![Preview](https://github.com/azwhikaru/curve_suite/blob/main/preview.gif?raw=true)
 
 # Intro
-Use VUE.js + Apache Echarts to show the `.zc` file captured by Yzxstudio upper machine
+Use VUE.js + Apache Echarts to show the `.zc` file captured by YZXSTUDIO upper machine
 
 # Feature
-0. Processing `.zc` files in JavaScript
+0. Processing `.zc` file in browser
 1. Show voltage, current, power peak values
 2. Zoom in on a point that interests you
 3. Playback recorded curves
@@ -20,4 +20,4 @@ Use VUE.js + Apache Echarts to show the `.zc` file captured by Yzxstudio upper m
 # Reference
 0. [Vue.js](https://vuejs.org/)
 1. [MDUI](https://www.mdui.org/en/)
-2. [Apache Echart](https://echarts.apache.org/en/index.html)
+2. [Apache Echarts](https://echarts.apache.org/en/index.html)
