@@ -1,6 +1,9 @@
 # curve_suite
 Yet Another Curve Renderer for YZXSTUDIO USB Meter
 
+# Preview
+![Preview](https://github.com/azwhikaru/curve_suite/blob/main/preview.gif?raw=true)
+
 # Intro
 Use VUE.js + Apache Echarts to show the `.zc` file captured by Yzxstudio upper machine
 
@@ -13,3 +16,8 @@ Use VUE.js + Apache Echarts to show the `.zc` file captured by Yzxstudio upper m
 # TO-DO
 0. Serial in browser to capture data directly
 1. More filters
+
+# Reference
+0. [Vue.js](https://vuejs.org/)
+1. [MDUI](https://www.mdui.org/en/)
+2. [Apache Echart](https://echarts.apache.org/en/index.html)
